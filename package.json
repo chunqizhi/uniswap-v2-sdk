@@ -1,7 +1,7 @@
 {
   "name": "huiwan-v2-sdk",
   "license": "MIT",
-  "version": "3.0.7-mainnet",
+  "version": "3.0.8-mainnet",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
