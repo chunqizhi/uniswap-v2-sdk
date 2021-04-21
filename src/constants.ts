@@ -10,7 +10,8 @@ export enum ChainId {
   GÖRLI = 5,
   KOVAN = 42,
   HECO_TESTNET = 256,
-  HECO_MAINNET = 128
+  HECO_MAINNET = 128,
+  OKEXCHAIN_TESTNET= 65
 }
 
 export enum TradeType {
