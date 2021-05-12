@@ -11,7 +11,8 @@ export enum ChainId {
   KOVAN = 42,
   HECO_TESTNET = 256,
   HECO_MAINNET = 128,
-  BSC_TESTNET = 97
+  BSC_TESTNET = 97,
+  BSC_MAINNET = 56,
 }
 
 export enum TradeType {
