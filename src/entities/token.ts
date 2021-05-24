@@ -126,5 +126,12 @@ export const WETH = {
       18,
       'WOKT',
       'Wrapped OKT'
-    )
+    ),
+    [ChainId.OKEXCHAIN_MAINNET]: new Token(
+      ChainId.OKEXCHAIN_MAINNET,
+      '0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15',
+      18,
+      'WOKT',
+      'Wrapped OKT'
+    ),
 }
