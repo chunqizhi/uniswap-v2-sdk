@@ -13,6 +13,7 @@ export enum ChainId {
   HECO_MAINNET = 128,
   BSC_TESTNET = 97,
   BSC_MAINNET = 56,
+  OKEXCHAIN_TESTNET= 65
 }
 
 export enum TradeType {

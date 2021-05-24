@@ -120,4 +120,11 @@ export const WETH = {
       'WBNB',
       'Wrapped BNB'
     ),
+    [ChainId.OKEXCHAIN_TESTNET]: new Token(
+      ChainId.OKEXCHAIN_TESTNET,
+      '0x2219845942d28716c0f7c605765fabdca1a7d9e0',
+      18,
+      'WOKT',
+      'Wrapped OKT'
+    )
 }
