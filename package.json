@@ -1,7 +1,7 @@
 {
   "name": "huiwan-v2-sdk",
   "license": "MIT",
-  "version": "0.0.6-oketestmain",
+  "version": "0.0.13-heco",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -10,13 +10,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/uniswap-sdk.git"
+    "url": "git+https://github.com/chunqizhi/uniswap-v2-sdk.git"
   },
   "keywords": [
     "uniswap",
     "ethereum"
   ],
-  "module": "dist/huiwan-v2-sdk.esm.js",
+  "module": "dist/huiwan-v2-sdk-zcq.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
     "build": "tsdx build",
@@ -62,7 +62,7 @@
   "bugs": {
     "url": "https://github.com/Uniswap/uniswap-sdk/issues"
   },
-  "homepage": "https://github.com/Uniswap/uniswap-sdk#readme",
+  "homepage": "https://github.com/chunqizhi/uniswap-v2-sdk#readme",
   "directories": {
     "test": "test"
   },
