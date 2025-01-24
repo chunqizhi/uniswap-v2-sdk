@@ -1,4 +1,4 @@
-import { ChainId, Token, WETH9, Price, CurrencyAmount, currencyEquals } from '@uniswap/sdk-core'
+import { ChainId, Token, WETH9, Price, CurrencyAmount, currencyEquals } from '@chun_11/sdk-core'
 import { InsufficientInputAmountError } from '../errors'
 import { computePairAddress, Pair } from './pair'
 

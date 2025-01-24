@@ -1,4 +1,4 @@
-import { BigintIsh, ChainId, Price, sqrt, Token, CurrencyAmount } from '@uniswap/sdk-core'
+import { BigintIsh, ChainId, Price, sqrt, Token, CurrencyAmount } from '@chun_11/sdk-core'
 import invariant from 'tiny-invariant'
 import JSBI from 'jsbi'
 import { pack, keccak256 } from '@ethersproject/solidity'
