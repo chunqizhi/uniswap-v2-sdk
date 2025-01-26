@@ -24,7 +24,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@chun_11/sdk-core": "3.0.1",
+    "@chun_11/sdk-core": "3.0.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
